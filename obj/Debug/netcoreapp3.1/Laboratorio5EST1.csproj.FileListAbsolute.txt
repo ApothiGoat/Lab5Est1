@@ -1,0 +1,14 @@
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.exe
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.deps.json
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.dll
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\bin\Debug\netcoreapp3.1\Laboratorio5EST1.pdb
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.dll
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.pdb
+C:\Users\Alejandro\source\repos\Laboratorio5EST1\Laboratorio5EST1\obj\Debug\netcoreapp3.1\Laboratorio5EST1.genruntimeconfig.cache
